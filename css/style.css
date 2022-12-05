@@ -44,6 +44,7 @@ h5 {
 
 h6 {
   font-size: 1.25rem;
+  margin-top: 2rem;
 }
 
 p, a, li, blockquote, label {
@@ -214,7 +215,7 @@ button:hover {
 }
 
 .bg-banner-one {
-  background: url(../images/background/homepage-one-banner.jpg) no-repeat;
+  background: url(../images/background/ICAST-BANNERV4_Image.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
 }
@@ -829,6 +830,7 @@ select.form-control:not([size]):not([multiple]) {
   width: 50px;
   text-align: center;
   background: #fff;
+  display: inline-block;
 }
 .footer-main .block ul.social-links-footer li a i {
   line-height: 50px;
@@ -1003,9 +1005,9 @@ select.form-control:not([size]):not([multiple]) {
     font-size: 3rem;
   }
 }
-.banner .block h2 {
-  text-transform: uppercase;
-  font-size: 4.625rem;
+.banner .block h3 {
+  /* text-transform: uppercase; */
+  /* font-size: 4.625rem; */
   color: #fff;
   font-weight: 400;
   text-shadow: 3.5px 6.062px 0px rgba(0, 0, 0, 0.1);
